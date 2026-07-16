@@ -164,11 +164,6 @@ Place your block diagram inside
 assets/
 ```
 
-Example
-
-```markdown
-![Architecture](assets/system_architecture.png)
-```
 
 ---
 
@@ -298,29 +293,7 @@ Unlike conventional machine learning models, ANFIS provides interpretable fuzzy 
 
 ---
 
-# 📈 Visualizations
 
-## ANFIS Control Surface
-
-```markdown
-![Control Surface](assets/control_surface.png)
-```
-
----
-
-## Training Error
-
-```markdown
-![Training Error](assets/training_error.png)
-```
-
----
-
-## Drone Simulation
-
-```markdown
-![Simulation](assets/simulation_result.png)
-```
 
 ---
 
@@ -346,6 +319,7 @@ Unlike conventional machine learning models, ANFIS provides interpretable fuzzy 
 # 👨‍💻 Authors
 
 **Shuhash S K**
+**Charan Karthick V**
 
 Amrita School of Engineering
 
